@@ -7,6 +7,7 @@ copyrights:
 - Copyright (C) 2020 embedded brains GmbH & Co. KG
 default:
 - enabled-by:
+  - arm/fdiot-h743vit
   - arm/nucleo-h743zi
   - arm/nucleo-h755zi
   - arm/stm32h747i-disco
