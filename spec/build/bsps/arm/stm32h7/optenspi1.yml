@@ -6,6 +6,9 @@ build-type: option
 copyrights:
 - Copyright (C) 2024 On-Line Applications Research (OAR) Corporation
 default:
+- enabled-by:
+  - arm/fdiot-h743vit
+  value: true
 - enabled-by: true
   value: false
 description: |
